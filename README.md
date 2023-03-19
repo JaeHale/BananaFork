@@ -17,5 +17,5 @@
 ### Links
 <p align="left">
 JaeHale: https://github.com/JaeHale<br>
-Banana Fork Remastered: 
+Banana Fork Remastered: https://github.com/JaeHale/BananaForkRemastered
 </p>
